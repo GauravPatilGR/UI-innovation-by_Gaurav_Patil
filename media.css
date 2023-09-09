@@ -1,0 +1,73 @@
+@media screen and (max-width:479px) {
+
+.mainsection h1{
+    font-size: 32px;
+
+
+}
+
+.mainsection p{
+    
+}
+
+.herosection{
+   
+    justify-content: center;
+}
+.imgop{
+    width:300px;
+    height: 150px;
+    margin-top: 5px;
+    margin-right: 5px;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+
+
+}
+
+.hero1{
+    padding: 1px;
+    margin: 12px;
+    margin-right: 30px;
+    
+}
+
+
+
+.impo{
+    height: 1000px;
+    
+}
+
+.impsection{
+    margin-top: 600px;
+}
+
+.impsection2{
+    margin-bottom: 250px;
+}
+
+.impsection2 i{
+    color: yellow;
+    font-size: 25px;
+  
+  }
+
+.impsection img{
+    
+}
+
+
+}
+
+.subfooter{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -50px;
+}
+
+.herosection{
+    margin: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* nav bar */
+body{
+    background-color: white;
+}
+
+
+
+
+
+ /* images section */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  /* image section end */
+
+  /* herosection */
+
+  h1{
+    font-size:80px ;
+    color: #fff;
+    text-align: center;
+    font-weight: 750;
+  }
+  
+  .mainsection p{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    
+  }
+
+  .mainsection img{
+    opacity: 1;
+    height: 800px;
+    filter: brightness(50%);
+   
+    
+  }
+
+  .herosection{
+    margin-top: 100px;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .hero1{
+    border: 0.01px solid ;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    margin-right: 20px;
+    transition: ease-in 0.15s;
+    
+
+    
+
+  }
+  .hero1:hover{
+    font-size: 25px;
+  }
+
+  .hero1 i{
+    color: yellow;
+  }
+
+  .hero1 h3{
+    font-size:15px ;
+  }
+
+  /* herosectio end */
+
+  .footerline{
+    justify-content: start;
+    text-align: left;
+    text-decoration: none;
+  }
+
+  .footerline a{
+    text-decoration: none;
+  }
+
+  .footerline i{
+    color: yellow;
+  }
+  
+
+  .subfooter{
+    text-align: center;
+    /* padding: 20px;
+    margin: 20px; */
+    
+    margin-top: px;
+    color: white;
+    background-color: black;
+    padding: 30px;
+
+   
+  }
+
+  .impsection2 p{
+    font-size: 20px;
+  }
+
+  .impsection2 i{
+    color: yellow;
+    font-size: 40px;
+  
+  }
+
+
+
+  
+   
+  
